@@ -2,7 +2,12 @@
 EL 3019  Data Sciences is an academic course
 
 
-### LAB : 
-0. Intro Pandas
-1. Missing Data
-2. KNN 
+### Agenda :
+-[X] Intro Pandas : gapminder 'Life Expectancy study'
+-[ ]  Missing Data : 
+-[ ]  KNN :
+
+
+#### To Do : 
+1. missing data : pt 5
+2. Knn pt : 4
