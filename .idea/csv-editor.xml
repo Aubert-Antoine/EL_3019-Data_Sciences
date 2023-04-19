@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="C:\Users\antoi\Downloads\coursRegressionLineaire_MLC_2020\coursRegressionLineaire\insurance.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\TP3 Feature Engineering\data_cars.csv">
           <value>
             <Attribute>
